@@ -1,0 +1,5 @@
+package com.zaime.movieratingservice.resources;
+
+public class MovieRatingResource {
+
+}

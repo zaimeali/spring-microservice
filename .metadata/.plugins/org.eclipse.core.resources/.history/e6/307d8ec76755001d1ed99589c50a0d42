@@ -1,0 +1,15 @@
+package com.zaime.moviecatalogservice.resources;
+
+import java.util.List;
+
+import org.springframework.web.bind.annotation.RestController;
+
+import com.zaime.moviecatalogservice.models.CatalogItem;
+
+@RestController
+public class MovieCatalogResource {
+
+	public List<CatalogItem> getCatalog(String userID) {
+		return List.of();
+	}
+}

@@ -1,0 +1,9 @@
+package com.zaime.moviecatalogservice.models;
+
+public class CatalogItem {
+
+	private String userID;
+	private String name;
+	private String desc;
+	private int rating;
+}

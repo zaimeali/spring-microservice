@@ -1,0 +1,5 @@
+package com.zaime.moviecatalogservice.models;
+
+public class CatalogItem {
+
+}

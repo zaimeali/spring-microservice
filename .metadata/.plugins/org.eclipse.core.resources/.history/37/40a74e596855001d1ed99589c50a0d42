@@ -1,0 +1,5 @@
+package com.zaime.movieinfoservice.models;
+
+public class Movie {
+
+}

@@ -1,0 +1,5 @@
+package com.zaime.movieinfoservice.resources;
+
+public class MovieInfoResource {
+
+}
